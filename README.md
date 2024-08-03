@@ -7,12 +7,12 @@ Problems are availible [there](https://szkopul.edu.pl/task_archive/oig/#problemg
 ## II etap
 ## III etap 
 ### Trial session
-  - *Bity*: 100/100 points
+  - **Bity**: 100/100 points
 ### Day 1
-  - Ciężarówki III: 100/100 points
-  - Przygody Smoka Bajtazara: 100/100 points
-  - Sklej++: 74/100 points
+  - **Ciężarówki III**: 100/100 points
+  - **Przygody Smoka Bajtazara**: 100/100 points
+  - **Sklej++**: 74/100 points
 ### Day 2
-  - Reforma Drogowa: 100/100 points
-  - Bezbłędne Sortowanie: 40/100 points
-  - Podzielnosć Kontratakuje: 8/100 points
+  - **Reforma Drogowa**: 100/100 points
+  - **Bezbłędne Sortowanie**: 40/100 points
+  - **Podzielnosć Kontratakuje**: 8/100 points

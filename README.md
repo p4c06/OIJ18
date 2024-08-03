@@ -4,6 +4,15 @@ My submissions at 18th OIJ (Polish Junior Olympics in Informatics)
 Problems are availible [here](https://szkopul.edu.pl/task_archive/oig/#problemgroups-18). 
 
 ## I etap
+### Main contests
+- **Artykuły prawne**: 100/100 points
+- **Idealny Bałwan**: 100/100 points
+- **Różnorodny Ciąg**: 100/100 points
+- **Domek**: 100/100 points
+- **Podzielność**: 30/100 points
+- **OIJ** 21/100 points
+### [Knowledge Test](https://oij.edu.pl/oij18/etap1/test_rozw.pdf)
+- 
 ## II etap
 ### Trial session
   - **Parysta Suma**: 100/100 points

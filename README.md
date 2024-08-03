@@ -12,7 +12,7 @@ Problems are availible [here](https://szkopul.edu.pl/task_archive/oig/#problemgr
 - **Podzielność**: 30/100 points
 - **OIJ** 21/100 points
 ### [Knowledge Test](https://oij.edu.pl/oij18/etap1/test_rozw.pdf)
-- 
+- 110/200 points
 ## II etap
 ### Trial session
   - **Parysta Suma**: 100/100 points

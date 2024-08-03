@@ -1,10 +1,15 @@
 # OIJ18
 My submissions at 18th OIJ (Polish Junior Olympics in Informatics)
 
-Problems are availible [there](https://szkopul.edu.pl/task_archive/oig/#problemgroups-18). 
+Problems are availible [here](https://szkopul.edu.pl/task_archive/oig/#problemgroups-18). 
 
 ## I etap
 ## II etap
+### Trial session
+  - **Parysta Suma**: 100/100 points
+- **Scrabble**: 70/100 points
+- **Ciąg Rosnący**: 46/100 points
+- **Kulturalna Kolejka**: 43/100 points
 ## III etap 
 ### Trial session
   - **Bity**: 100/100 points

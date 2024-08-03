@@ -7,9 +7,10 @@ Problems are availible [here](https://szkopul.edu.pl/task_archive/oig/#problemgr
 ## II etap
 ### Trial session
   - **Parysta Suma**: 100/100 points
-- **Scrabble**: 70/100 points
-- **Ciąg Rosnący**: 46/100 points
-- **Kulturalna Kolejka**: 43/100 points
+### Main contest
+  - **Scrabble**: 70/100 points
+  - **Ciąg Rosnący**: 46/100 points
+  - **Kulturalna Kolejka**: 43/100 points
 ## III etap 
 ### Trial session
   - **Bity**: 100/100 points

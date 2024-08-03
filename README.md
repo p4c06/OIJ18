@@ -7,7 +7,7 @@ Problems are availible [there](https://szkopul.edu.pl/task_archive/oig/#problemg
 ## II etap
 ## III etap 
 ### Trial session
-  - Bity: 100pkt
+  - ~Bity~: 100/100 points
 ### Day 1
   - Ciężarówki III: 100/100 points
   - Przygody Smoka Bajtazara: 100/100 points
